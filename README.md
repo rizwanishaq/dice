@@ -2,4 +2,4 @@
 
 ### Practice of React from the above course, where it is in class component, and in this example it is in functional component.
 
-Link: https://rizwanishaq.github.io/modern-react-udemy-dice
+Link: https://rizwanishaq.github.io/dice
